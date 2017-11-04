@@ -1,5 +1,5 @@
 # hubot-aha-create-idea
-Hubot command to create a new idea in Aha (see http://aha.oi)
+Hubot command to create a new idea in Aha (see http://aha.io)
 
 ## Installation
 
